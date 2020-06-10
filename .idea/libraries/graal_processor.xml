@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="graal-processor">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/graalvm/lib/graal/graal-processor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

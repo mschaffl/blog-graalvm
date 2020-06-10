@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="polyglot-native-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/graalvm/lib/polyglot/polyglot-native-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

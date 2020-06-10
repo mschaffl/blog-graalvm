@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="graal-hotspot-library">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/graalvm/lib/graalvm/graal-hotspot-library.jar!/" />
+      <root url="jar://$USER_HOME$/graalvm/lib/graalvm/graal-libgraal-jni.jar!/" />
+      <root url="jar://$USER_HOME$/graalvm/lib/graalvm/graal-management-libgraal.jar!/" />
+      <root url="jar://$USER_HOME$/graalvm/lib/graalvm/graal-truffle-compiler-libgraal.jar!/" />
+      <root url="jar://$USER_HOME$/graalvm/lib/graalvm/graaljs-launcher.jar!/" />
+      <root url="jar://$USER_HOME$/graalvm/lib/graalvm/launcher-common.jar!/" />
+      <root url="jar://$USER_HOME$/graalvm/lib/graalvm/polyglot-native-api.jar!/" />
+      <root url="jar://$USER_HOME$/graalvm/lib/graalvm/trufflenode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
